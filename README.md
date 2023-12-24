@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renxlice
 - 👀 I’m interested in Tech/Esport
-- 🌱 I’m currently learning fullstack 
-- 💞️ I’m looking to collaborate on Data Engineer
+- 🌱 I’m currently learning Information Systems 
+- 🖥 I’m looking to collaborate on Full Stack Developer/Data Engineer
 - 📫 How to reach me renpun111@gmail.com
 - Don't forget if you use and share my code, tag/CC on your social media "renxlice"
 - Thank You!
