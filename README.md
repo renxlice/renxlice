@@ -6,7 +6,7 @@
 - Data Engineering
 - 📫 How to reach me
 - renpun111@gmail.com
-- https://www.linkedin.com/in/andi-ryaas-saputra-effendy
+- https://www.linkedin.com/in/andiryaas
 - Don't forget if you use and share my code, tag/CC on your social media "renxlice"
 - Thank You!
 <!---
