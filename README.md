@@ -2,8 +2,9 @@
 - 👀 I’m interested in Tech/Esport
 - 🌱 I’m currently learning Information Systems 
 - 🖥 I’m looking to collaborate on
-- Full Stack Developer
-- Data Engineering
+- BackEnd Developer
+- Web Developer
+- UI/UX Designer
 - 📫 How to reach me
 - renpun111@gmail.com
 - https://www.linkedin.com/in/andiryaas
