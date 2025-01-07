@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renxlice
+- 👋 Hi, I’m @renxlice - Andi Ryaas Saputra Effendy
 - 👀 I’m interested in Tech/Esport
 - 🌱 I’m currently learning Information Systems 
 - 🖥 I’m looking to collaborate on
@@ -6,7 +6,7 @@
 - Web Developer
 - UI/UX Designer
 - 📫 How to reach me
-- renpun111@gmail.com
+- andiryaas276@gmail.com
 - https://www.linkedin.com/in/andiryaas
 - Don't forget if you use and share my code, tag/CC on your social media "renxlice"
 - Thank You!
