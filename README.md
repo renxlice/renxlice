@@ -1,4 +1,4 @@
-##👋 Hi, I’m @renxlice - Andi Ryaas Saputra Effendy<br/>
+ ## Hi, I’m @renxlice - Andi Ryaas Saputra Effendy👋
 - 👀 I’m interested in Tech/Esport<br/>
 - 🖥️ Information System student at Mercu Buana University<br/>
 - 🎨I create website and mobile apps with responsive user friendly design to stay consistent<br/>
