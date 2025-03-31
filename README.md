@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @renxlice - Andi Ryaas Saputra Effendy
-- 👀 I’m interested in Tech/Esport
-- 🌱 I’m currently learning Information Systems 
-- 🖥 I’m looking to collaborate on
-- BackEnd Developer
-- Web Developer
-- UI/UX Designer
-- 📫 How to reach me
-- andiryaas276@gmail.com
-- https://www.linkedin.com/in/andiryaas
-- Don't forget if you use and share my code, tag/CC on your social media "renxlice"
-- Thank You!
-<!---
-renxlice/renxlice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @renxlice - Andi Ryaas Saputra Effendy<br/>
+- 👀 I’m interested in Tech/Esport<br/>
+- 🖥️ Information System student at Mercu Buana University<br/>
+- 🎨I create website and mobile apps with responsive user friendly design to stay consistent<br/>
+- 🖥 I’m looking to collaborate on<br/>
+- BackEnd Developer<br/>
+- Web Developer<br/>
+- UI/UX Designer<br/>
+- Mobile Developer<br/>
+- 🌍 Want to know my daily life? you can reach me on [Instagram](https://www.instagram.com/renxlice/)<br/>
+- 🧑‍💻 You can reach my professional profile on linkedin[Linkedin](https://www.linkedin.com/in/andiryaas/)<br/>
+- 📩 About Business reach me on andiryaas49@gmail.com<br/>
+- 😸 Don't forget if you use and share my code, tag/CC on your social media "renxlice"<br/>
+- 🧸 Thank You!<br/>
