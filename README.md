@@ -8,7 +8,7 @@
 - UI/UX Designer<br/>
 - Mobile Developer<br/>
 - 🌍 Want to know my daily life? you can reach me on [Instagram](https://www.instagram.com/renxlice/)<br/>
-- 🧑‍💻 You can reach my professional profile on linkedin[Linkedin](https://www.linkedin.com/in/andiryaas/)<br/>
+- 🧑‍💻 You can reach my professional profile on [Linkedin](https://www.linkedin.com/in/andiryaas/)<br/>
 - 📩 About Business reach me on andiryaas49@gmail.com<br/>
 - 😸 Don't forget if you use and share my code, tag/CC on your social media "renxlice"<br/>
 - 🧸 Thank You!<br/>
