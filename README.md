@@ -3,7 +3,7 @@
 - 🖥️ Information System student at Mercu Buana University<br/>
 - 🎨I create website and mobile apps with responsive user friendly design to stay consistent<br/>
 - 🖥 I’m looking to collaborate on<br/>
-- Back-End Developer<br/>
+- Software Engineer<br/>
 - Web Developer<br/>
 - UI/UX Designer<br/>
 - Mobile Developer<br/>
