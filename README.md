@@ -1,11 +1,11 @@
  ## Hi, I’m @renxlice - Andi Ryaas Saputra Effendy👋
 - 👀 I’m interested in Tech/Race<br/>
 - 🖥️ Information System student at Mercu Buana University<br/>
-- 🎨I create website and mobile apps with responsive user friendly design to stay consistent<br/>
+- 🎨 I create website and mobile apps with responsive user friendly design to stay consistent<br/>
 - 🖥 I’m looking to collaborate on<br/>
 - Software Engineer<br/>
+- Project Lead<br/>
 - Web Developer<br/>
-- UI/UX Designer<br/>
 - Mobile Developer<br/>
 - 🌍 Want to know my daily life? you can reach me on [Instagram](https://www.instagram.com/renxlice/)<br/>
 - 🧑‍💻 You can reach my professional profile on [Linkedin](https://www.linkedin.com/in/andiryaas/)<br/>
